@@ -100,20 +100,20 @@
 ## Srovnání variant podle ikonických míst
 
 | Ikonické místo / oblast | Varianta A | Varianta B | Varianta C |
-| --- | --- | --- | --- |
-| Hardangerfjord | ✔ | ◐ | ✔ |
-| Trolltunga | ✔ | ✖ | ✖ |
-| Vøringfossen | ✔ | ✖ | ◐ |
-| Sognefjord (hlavní část) | ✔ | ◐ | ✔ |
-| Nærøyfjord / Flåm | ✔ | ◐ | ◐ |
-| Jostedalsbreen | ✖ | ◐ | ✔ |
-| Loen Skylift | ✖ | ◐ | ✔ |
-| Geirangerfjord | ✖ | ✔ | ✖ |
-| Dalsnibba | ✖ | ✔ | ✖ |
-| Ålesund | ✖ | ✔ | ✖ |
-| Trollstigen | ✖ | ✔ | ✖ |
+|-------------------------|------------|------------|------------|
+| Hardangerfjord          | 🟢         | 🟡         | 🟢         |
+| Trolltunga              | 🟢         | 🔴         | 🔴         |
+| Vøringsfossen           | 🟢         | 🔴         | 🟡         |
+| Sognefjord (hlavní část)| 🟢         | 🟡         | 🟢         |
+| Nærøyfjord / Flåm       | 🟢         | 🟡         | 🟡         |
+| Jostedalsbreen          | 🔴         | 🟡         | 🟢         |
+| Loen Skylift            | 🔴         | 🟡         | 🟢         |
+| Geirangerfjord          | 🔴         | 🟢         | 🔴         |
+| Dalsnibba               | 🔴         | 🟢         | 🔴         |
+| Ålesund                 | 🔴         | 🟢         | 🔴         |
+| Trollstigen             | 🔴         | 🟢         | 🔴         |
 
-Legenda:
-✔ = zahrnuto
-◐ = možné / okrajově / s kompromisem
-✖ = typicky ne
+**Legenda:**  
+🟢 = zahrnuto  
+🟡 = možné / okrajově / s kompromisem  
+🔴 = typicky ne
